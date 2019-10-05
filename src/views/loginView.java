@@ -1,15 +1,3 @@
-/* 
-
-Group members:
-UMMSALAMA ABDULRAHMAN 18/UG/774/BIT-S
-MUTABAZI STYVE ARTHUR 18/101/BIT-J
-KANIKI ASANGA CHRISTIANE 17/272/BIT-J
-
-
-
-
-*/
-
 package org.iuea.oop.views;
 
 import java.awt.event.ActionEvent;
